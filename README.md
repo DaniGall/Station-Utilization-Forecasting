@@ -46,13 +46,12 @@ This project addresses the need for reliable, data driven predictions to optimiz
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *numpy*
+- *Google Colab*
+- *LightGBM*
+- *Scikit-learn*
 
 
 ## Authors <!--- do not change this line -->
