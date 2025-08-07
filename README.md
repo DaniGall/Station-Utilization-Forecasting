@@ -31,13 +31,9 @@ This project addresses the need for reliable, data driven predictions to optimiz
 
 
 
-## Methodologies <!--- do not change this line -->
+## Methodologies 
 
-(UPDATE IN README.md)
-
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+*We conducted a literature review and used open datasets to identify patterns and needs. Cleaned and processed data using pandas, removing inconsistencies and standardizing formats. Engineered features based on time, location, and usage trends. Built and tested prototypes iteratively, incorporating user feedback and refining based on performance metrics. Final models were evaluated using [insert metric, e.g., RMSE or accuracy], then deployed with clear documentation and Git integration for reproducibility.*
 
 
 ## Data Sources <!--- do not change this line -->
