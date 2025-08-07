@@ -33,7 +33,7 @@ This project addresses the need for reliable, data driven predictions to optimiz
 
 ## Methodologies 
 
-*We conducted a literature review and used open datasets to identify patterns and needs. Cleaned and processed data using pandas, removing inconsistencies and standardizing formats. Engineered features based on time, location, and usage trends. Built and tested prototypes iteratively, incorporating user feedback and refining based on performance metrics. Final models were evaluated using [insert metric, e.g., RMSE or accuracy], then deployed with clear documentation and Git integration for reproducibility.*
+*We conducted a literature review and used open datasets to identify patterns and needs. Cleaned and processed data using pandas, removing inconsistencies and standardizing formats. Engineered features based on time, location, and usage trends. Built and tested prototypes iteratively, incorporating user feedback and refining based on performance metrics.*
 
 
 ## Data Sources <!--- do not change this line -->
